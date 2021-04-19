@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="ltr"
+    tools:context=".Fragments.FavoritesFragment">
+    
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/favoriteRv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:padding="4dp"
+        android:scrollbars="vertical"/>
+
+    <TextView
+        android:id="@+id/favoriteTV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="No favorites yet"
+        android:textSize="30sp"
+        android:visibility="gone"
+        android:gravity="center"/>
+
+    <ProgressBar
+        android:id="@+id/favoritesPB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+
+</FrameLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layoutDirection="ltr">
+
+    <item
+        android:id="@+id/selectAll"
+        android:title="Select All"
+        android:icon="@drawable/ic_select_all"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/edit_list"
+        android:title="Edit list"
+        android:icon="@drawable/ic_edit"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/share_list"
+        android:title="share list"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="ifRoom">
+    </item>
+
+
+</menu>

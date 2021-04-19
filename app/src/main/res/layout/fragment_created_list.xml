@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="ltr"
+    tools:context=".Fragments.CreatedListFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/created_lists_rv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:padding="4dp"
+        android:scrollbars="vertical"/>
+
+    <TextView
+        android:id="@+id/created_lists_tv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="No lists yet"
+        android:textSize="30sp"
+        android:visibility="gone"
+        android:gravity="center"/>
+
+    <ProgressBar
+        android:id="@+id/created_list_PB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+
+</FrameLayout>

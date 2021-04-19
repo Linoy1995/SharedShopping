@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">Shared Shopping</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="facebook_application_id" translatable="false">3471977966158460</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb3471977966158460</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="All_lists">All lists</string>
+    <string name="created_lists">Created lists</string>
+    <string name="Shared_lists">Shared lists</string>
+    <string name="Favorites">Favorites</string>
+    <string name="search">Search</string>
+    <string name="change_lang">Change Language</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="Add_List">Add List</string>
+    <string name="Edit_List">Edit List</string>
+
+</resources>

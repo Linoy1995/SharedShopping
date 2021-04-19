@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layoutDirection="ltr">
+
+    <item
+        android:id="@+id/share_list"
+        android:title="Share list"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/favorite_list"
+        android:title="Favourite"
+        android:icon="@drawable/ic_not_favorite"
+        app:showAsAction="ifRoom">
+    </item>
+
+
+    <item
+        android:id="@+id/save_list"
+        android:title="Save list"
+        android:icon="@drawable/ic_save_changes"
+        app:showAsAction="ifRoom">
+    </item>
+
+
+
+</menu>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shared Shopping</string>
+
+    <string name="full_name">שם</string>
+    <string name="email">כתובת דוא\"ל</string>
+    <string name="password">סיסמא</string>
+    <string name="All_lists">כל הרשימות</string>
+    <string name="created_lists">רשימות שיצרתי</string>
+    <string name="Shared_lists">שיתפו איתי</string>
+    <string name="Favorites">מועדפים</string>
+    <string name="search">חיפוש</string>
+    <string name="share">שתף</string>
+    <string name="about">אודות</string>
+    <string name="logout">התנתק</string>
+    <string name="change_lang">שנה שפה</string>
+    <string name="Add_List">יצירת רשימה חדשה</string>
+    <string name="Edit_List">עריכת רשימה</string>
+</resources>
