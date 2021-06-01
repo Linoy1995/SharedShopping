@@ -15,6 +15,7 @@ This project was done in partnership with [matan92]( https://github.com/matan92 
 - Add lists to favourites
 - Edit user's profile
 - Login with email address, Facebooj user or Gmail account.
+- Change Language
 
 #### Main Screen:
 <img src="./shared_shopping.png" width="200" height="350" />
