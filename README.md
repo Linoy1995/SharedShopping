@@ -1,7 +1,7 @@
 # SharedShopping
 This project was created in partnership with [matan92]( https://github.com/matan92 ).
 
-#### Techniques used:
+#### Used Techniques:
 - Java language
 - NoSql database: Firebase
 - Push notifications service
