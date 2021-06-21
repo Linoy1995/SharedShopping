@@ -14,7 +14,7 @@ This project was created in partnership with [matan92]( https://github.com/matan
 - Add lists and share them with friends by email address
 - Add lists to favourites
 - Edit user's profile
-- Login with email address, Facebooj user or Gmail account.
+- Login with email address, Facebook user or Gmail account.
 - Change Language
 
 #### Main Screen:
