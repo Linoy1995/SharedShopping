@@ -1,5 +1,5 @@
 # SharedShopping
-This project was done in partnership with [matan92]( https://github.com/matan92 ).
+This project was created in partnership with [matan92]( https://github.com/matan92 ).
 
 #### Techniques used:
 - Java language
